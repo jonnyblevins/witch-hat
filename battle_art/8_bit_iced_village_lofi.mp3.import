@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dpdenqqbovwfq"
-path="res://.godot/imported/8_bit_iced_village_lofi.mp3-9644ee767b59c38804614fda0907c1e7.mp3str"
+path="res://.godot/imported/8_bit_iced_village_lofi.mp3-9d0d11f604f1ec3fb0b8493109c8d17f.mp3str"
 
 [deps]
 
-source_file="res://art/8_bit_iced_village_lofi.mp3"
-dest_files=["res://.godot/imported/8_bit_iced_village_lofi.mp3-9644ee767b59c38804614fda0907c1e7.mp3str"]
+source_file="res://battle_art/8_bit_iced_village_lofi.mp3"
+dest_files=["res://.godot/imported/8_bit_iced_village_lofi.mp3-9d0d11f604f1ec3fb0b8493109c8d17f.mp3str"]
 
 [params]
 
