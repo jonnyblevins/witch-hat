@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="CharacterStats" load_steps=6 format=3 uid="uid://b62cx4x16x14l"]
+
+[ext_resource type="Script" path="res://custom_resources/character_stats.gd" id="1_0d5cm"]
+[ext_resource type="Texture2D" uid="uid://b3531lssghcw1" path="res://art/quixley-square.png" id="1_g1qho"]
+[ext_resource type="Texture2D" uid="uid://bxfyp50shaqnr" path="res://art/quixley-portrait.png" id="2_25c8v"]
+[ext_resource type="Texture2D" uid="uid://etvbqvr82wa1" path="res://art/quixley-square-knocked-out.png" id="2_67w0a"]
+[ext_resource type="StyleBox" uid="uid://c2rr1nco8k6sy" path="res://characters/quixley/quixley_theme.tres" id="5_2j67g"]
+
+[resource]
+script = ExtResource("1_0d5cm")
+character_name = "Quixley"
+description = "Well-meaning and a leader amongst her people."
+portrait = ExtResource("2_25c8v")
+theme = ExtResource("5_2j67g")
+max_mana = 4
+max_health = 20
+art = ExtResource("1_g1qho")
+knocked_out_art = ExtResource("2_67w0a")
